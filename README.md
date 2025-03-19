@@ -49,7 +49,7 @@ A feature-rich **Customer Relationship Management System** to manage customers, 
 #### 🤖 **AI Chatbot** *(MERN Stack)*
 A smart chatbot built using **MongoDB, Express, React, and Node.js**, capable of handling queries with AI-powered responses.
 
-🔗 [View Project](https://github.com/Anticoder03/ai-chatbot)
+🔗 [View Project](https://github.com/Anticoder03/chati-app)
 
 #### 🏫 **Struggle School Website** *(PHP, MySQL, TailwindCSS)*
 An educational website for **Struggle School**, designed to showcase courses, faculty, and events.
