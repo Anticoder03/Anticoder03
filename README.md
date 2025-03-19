@@ -77,8 +77,7 @@ An e-commerce platform for selling and managing furniture with an intuitive UI a
 
 ---
 
-### 📊 GitHub Stats
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anticoder03&show_icons=true&theme=radical)
+
 
 ### 📌 Latest Dev Card
 <a href="https://app.daily.dev/ashish03241"><img src="https://api.daily.dev/devcards/v2/frhbOXTfWXoQ9RXxZV8pj.png?type=default&r=6wa" width="356" alt="Ashish Prajapati's Dev Card"/></a>
