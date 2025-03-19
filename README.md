@@ -54,12 +54,12 @@ A smart chatbot built using **MongoDB, Express, React, and Node.js**, capable of
 #### 🏫 **Struggle School Website** *(PHP, MySQL, TailwindCSS)*
 An educational website for **Struggle School**, designed to showcase courses, faculty, and events.
 
-🔗 [View Project]([https://github.com/Anticoder03/school-website](https://github.com/Anticoder03/struggle_school/))
+🔗 [View Project](https://github.com/Anticoder03/struggle_school/)
 
 #### 🏢 **Monster Industries** *(Business Website)*
 A corporate website designed for **Monster Industries**, featuring products, services, and contact pages.
 
-🔗 [View Project]([https://github.com/Anticoder03/monster-industries](https://github.com/Anticoder03/moster_industries/))
+🔗 [View Project](https://github.com/Anticoder03/moster_industries/)
 
 #### 🛒 **Furniture Management System** *(PHP, MySQL, Tailwind CSS, jQuery)*
 An e-commerce platform for selling and managing furniture with an intuitive UI and admin panel.
