@@ -44,7 +44,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable applic
 #### 📌 **A Square CRM** *(PHP, MySQL, Tailwind CSS, Chart.js, Calendar.js)*
 A feature-rich **Customer Relationship Management System** to manage customers, leads, tasks, and sales efficiently.
 
-🔗 [View Project](https://github.com/Anticoder03/a-square-crm)
+🔗 [View Project]([https://github.com/Anticoder03/a-square-crm](https://github.com/Anticoder03/CRM)
 
 #### 🤖 **AI Chatbot** *(MERN Stack)*
 A smart chatbot built using **MongoDB, Express, React, and Node.js**, capable of handling queries with AI-powered responses.
@@ -54,12 +54,12 @@ A smart chatbot built using **MongoDB, Express, React, and Node.js**, capable of
 #### 🏫 **Struggle School Website** *(PHP, MySQL, TailwindCSS)*
 An educational website for **Struggle School**, designed to showcase courses, faculty, and events.
 
-🔗 [View Project](https://github.com/Anticoder03/school-website)
+🔗 [View Project]([https://github.com/Anticoder03/school-website](https://github.com/Anticoder03/struggle_school/))
 
 #### 🏢 **Monster Industries** *(Business Website)*
 A corporate website designed for **Monster Industries**, featuring products, services, and contact pages.
 
-🔗 [View Project](https://github.com/Anticoder03/monster-industries)
+🔗 [View Project]([https://github.com/Anticoder03/monster-industries](https://github.com/Anticoder03/moster_industries/))
 
 #### 🛒 **Furniture Management System** *(PHP, MySQL, Tailwind CSS, jQuery)*
 An e-commerce platform for selling and managing furniture with an intuitive UI and admin panel.
@@ -69,7 +69,7 @@ An e-commerce platform for selling and managing furniture with an intuitive UI a
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-Ashish%20Prajapati-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-prajapati-68bb82242/)
+[![LinkedIn](https://img.shields.io/badge/-Ashish%20Prajapati-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ashish-prajapati-68bb82242/](https://www.linkedin.com/in/ashish-prajapati-68bb82242/))
 [![GitHub](https://img.shields.io/badge/-Anticoder03-000000?style=flat&logo=github&logoColor=white)](https://github.com/Anticoder03)
 [![Dev.to](https://img.shields.io/badge/-Anticoder03-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/anticoder03)
 
