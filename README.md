@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable applic
 
 ### 🚀 Tech Stack
 
-#### 🖥️ **Frontend**
+#### 🔥 **Frontend**
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,9 +32,6 @@ I'm a **Full Stack Developer** passionate about building modern, scalable applic
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/-Thunder_Client-000000?style=flat&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 #### 🔥 **Programming Languages**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -66,14 +63,14 @@ A corporate website designed for **Monster Industries**, featuring products, ser
 
 📚 [View Project](https://github.com/Anticoder03/moster_industries/)
 
-#### 🛍️ **Furniture Management System** *(PHP, MySQL, Tailwind CSS, jQuery)*
+#### 🏡 **Furniture Management System** *(PHP, MySQL, Tailwind CSS, jQuery)*
 An e-commerce platform for selling and managing furniture with an intuitive UI and admin panel.
 
 📚 [View Project](https://github.com/Anticoder03/furniture-management)
 
 ---
 
-### 💋 Connect With Me
+###  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-Ashish%20Prajapati-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-prajapati-68bb82242/)
 [![GitHub](https://img.shields.io/badge/-Anticoder03-000000?style=flat&logo=github&logoColor=white)](https://github.com/Anticoder03)
 [![Dev.to](https://img.shields.io/badge/-Anticoder03-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/anticoder03)
@@ -84,4 +81,3 @@ An e-commerce platform for selling and managing furniture with an intuitive UI a
 
 ### 📌 Latest Dev Card
 <a href="https://app.daily.dev/ashish03241"><img src="https://api.daily.dev/devcards/v2/frhbOXTfWXoQ9RXxZV8pj.png?type=default&r=6wa" width="356" alt="Ashish Prajapati's Dev Card"/></a>
-
