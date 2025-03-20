@@ -4,6 +4,18 @@
 I'm a **Full Stack Developer** passionate about building modern, scalable applications. I love working with **front-end & back-end technologies** to create impactful projects.
 
 ---
+## 🔍 What Does "Anticoder03" Mean?  
+
+The name **"Anticoder03"** represents:  
+
+- **"Anti"** – A different or unconventional approach to coding, thinking outside the box.  
+- **"Coder"** – Passion for programming and building creative solutions.  
+- **"03"** – A unique identifier,  a favorite number.  
+
+### 🚀 Philosophy Behind the Name  
+"Anticoder03" symbolizes a **developer who challenges norms, writes efficient code, and innovates beyond traditional coding practices.**  
+
+---
 
 ### 🚀 Tech Stack
 
