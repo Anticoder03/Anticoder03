@@ -1,4 +1,4 @@
-#AniCoder – Beyond logic, into innovation.
+# AniCoder – Beyond logic, into innovation.
 ## Hi there! 👋 I'm Ashish Prajapati
 
 ### 💻 About Me
