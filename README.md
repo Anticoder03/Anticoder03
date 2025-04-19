@@ -1,17 +1,22 @@
-# Anicoder03 – Beyond logic, into innovation.
+Here's an updated version of your profile with the added ideology:
+
+---
+
+# Anicoder03 – Beyond logic, into innovation.  
 ## Hi there! 👋 I'm Ashish Prajapati
 
 ### 💻 About Me
 I'm a **Full Stack Developer** passionate about building modern, scalable applications. I love working with **front-end & back-end technologies** to create impactful projects.
 
 ---
+
 ## 🔍 What Does "Anticoder03" Mean?  
 
 The name **"Anticoder03"** represents:  
 
 - **"Anti"** – A different or unconventional approach to coding, thinking outside the box.  
 - **"Coder"** – Passion for programming and building creative solutions.  
-- **"03"** – A unique identifier,  a favorite number.  
+- **"03"** – A unique identifier, a favorite number.  
 
 ### 🚀 Philosophy Behind the Name  
 "Anticoder03" symbolizes a **developer who challenges norms, writes efficient code, and innovates beyond traditional coding practices.**  
@@ -83,14 +88,20 @@ An e-commerce platform for selling and managing furniture with an intuitive UI a
 
 ---
 
-###  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-Ashish%20Prajapati-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-prajapati-68bb82242/)
-[![GitHub](https://img.shields.io/badge/-Anticoder03-000000?style=flat&logo=github&logoColor=white)](https://github.com/Anticoder03)
+### 🚀 **Development Philosophy**  
+**Development is not just about the size or complexity of the projects you’ve built; it’s about the small things you learn every day.**  
+Great developers are not measured by the magnitude of their projects but by their ability to learn, adapt, and refine their craft. Every line of code is an opportunity to improve, and every challenge is a lesson in growth. The true power of development lies in **incremental progress** and the dedication to mastering the craft one small piece at a time.
+
+---
+
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-Ashish%20Prajapati-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-prajapati-68bb82242/)  
+[![GitHub](https://img.shields.io/badge/-Anticoder03-000000?style=flat&logo=github&logoColor=white)](https://github.com/Anticoder03)  
 [![Dev.to](https://img.shields.io/badge/-Anticoder03-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/anticoder03)
 
 📧 **Email:** [ap5381545@gmail.com](mailto:ap5381545@gmail.com)
 
 ---
 
-### 📌 Latest Dev Card
+### 📌 Latest Dev Card  
 <a href="https://app.daily.dev/ashish03241"><img src="https://api.daily.dev/devcards/v2/frhbOXTfWXoQ9RXxZV8pj.png?type=default&r=6wa" width="356" alt="Ashish Prajapati's Dev Card"/></a>
