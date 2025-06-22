@@ -3,7 +3,7 @@ Here's an updated version of your profile with the added ideology:
 ---
 
 # Anicoder03 – Beyond logic, into innovation.  
-## Hi there! 👋 I'm Ashish Prajapati
+## Hi there! 👋
 
 ### 💻 About Me
 I'm a **Full Stack Developer** passionate about building modern, scalable applications. I love working with **front-end & back-end technologies** to create impactful projects.
