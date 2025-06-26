@@ -6,9 +6,8 @@ Here's an updated version of your profile with the added ideology:
 ## Hi there! 👋
 
 ### 💻 About Me
-I'm a **Full Stack Developer** passionate about building modern, scalable applications. I love working with **front-end & back-end technologies** to create impactful projects.
-
-I'm a passionate web developer, coding monarch, and full-time otaku 👑🎌. I love building cool stuff and exploring anime worlds in my downtime.
+I'm a **Full Stack Developer** passionate about building modern, scalable applications. I love working with **front-end & back-end technologies** to create impactful projects
+also a  coding monarch, and full-time otaku 👑🎌. I love building cool stuff and exploring anime worlds in my downtime.
 
 ---
 
