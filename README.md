@@ -105,4 +105,4 @@ Great developers are not measured by the magnitude of their projects but by thei
 ---
 
 ### 📌 Latest Dev Card  
-<a href="https://app.daily.dev/ashish03241"><img src="https://api.daily.dev/devcards/v2/frhbOXTfWXoQ9RXxZV8pj.png?type=default&r=6wa" width="356" alt="Ashish Prajapati's Dev Card"/></a>
+<a href="https://app.daily.dev/ashishprajapati15"><img src="https://api.daily.dev/devcards/v2/wmchbth8Oobg42WJwyaXw.png?r=n2a&type=wide" width="652" alt="Ashish Prajapati's Dev Card"/></a>
