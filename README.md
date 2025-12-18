@@ -1,108 +1,167 @@
-Here's an updated version of your profile with the added ideology:
+# Anticoder03 – Beyond Logic, Into Innovation.
 
----
-
-# Anicoder03 – Beyond logic, into innovation.  
 ## Hi there! 👋
 
 ### 💻 About Me
-I'm a **Full Stack Developer** passionate about building modern, scalable applications. I love working with **front-end & back-end technologies** to create impactful projects
-also a  coding monarch, and full-time otaku 👑🎌. I love building cool stuff and exploring anime worlds in my downtime.
+
+I'm a **Full Stack Developer** who likes building things the old-school right way—solid fundamentals first, shiny stuff later. I work across **front-end, back-end, and APIs**, shipping practical, scalable apps that actually run in production. Also a  full-time otaku 🎌, and someone who enjoys breaking patterns just enough to find better ones.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+API+Developer;FastAPI+%7C+Django+REST;PostgreSQL+Focused;Building+Clean+and+Scalable+Systems" />
+</p>
 
 ---
 
-## 🔍 What Does "Anticoder03" Mean?  
 
-The name **"Anticoder03"** represents:  
 
-- **"Anti"** – A different or unconventional approach to coding, thinking outside the box.  
-- **"Coder"** – Passion for programming and building creative solutions.  
-- **"03"** – A unique identifier, a favorite number.  
+### 🚀 Philosophy Behind the Name
 
-### 🚀 Philosophy Behind the Name  
-"Anticoder03" symbolizes a **developer who challenges norms, writes efficient code, and innovates beyond traditional coding practices.**  
+**Anticoder03** stands for a developer who respects proven practices while still pushing boundaries—optimize when it matters, refactor when it hurts, and never ship junk just because it works.
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
-#### 🔥 **Frontend**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+### 🔥 Frontend
 
-#### ⚙️ **Backend**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🛠️ **Tools & APIs**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/-Thunder_Client-000000?style=flat&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### 🔥 **Programming Languages**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
----
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF69B4?style=for-the-badge)
 
-### 🔥 Featured Projects
+ ⚙️ Backend
 
-#### 📌 **A Square CRM** *(PHP, MySQL, Tailwind CSS, Chart.js, Calendar.js)*
-A feature-rich **Customer Relationship Management System** to manage customers, leads, tasks, and sales efficiently.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
-📚 [View Project](https://github.com/Anticoder03/CRM)
 
-#### 🤖 **AI Chatbot** *(MERN Stack)*
-A smart chatbot built using **MongoDB, Express, React, and Node.js**, capable of handling queries with AI-powered responses.
 
-📚 [View Project](https://github.com/Anticoder03/chati-app)
 
-#### 🏢 **Struggle School Website** *(PHP, MySQL, TailwindCSS)*
-An educational website for **Struggle School**, designed to showcase courses, faculty, and events.
 
-📚 [View Project](https://github.com/Anticoder03/struggle_school/)
+### 🧠 API Development (Core Focus)
 
-#### 🏢 **Monster Industries** *(Business Website)*
-A corporate website designed for **Monster Industries**, featuring products, services, and contact pages.
+* **FastAPI** – High‑performance REST APIs
+* **Django REST Framework (DRF)**
+* **Flask APIs** (lightweight services)
+* **JWT Authentication & Role‑Based Access**
+* **API Validation (Pydantic / Serializers)**
+* **Async APIs & Background Tasks**
 
-📚 [View Project](https://github.com/Anticoder03/moster_industries/)
+### 🗄️ Databases
 
-#### 🏡 **Furniture Management System** *(PHP, MySQL, Tailwind CSS, jQuery)*
-An e-commerce platform for selling and managing furniture with an intuitive UI and admin panel.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-📚 [View Project](https://github.com/Anticoder03/furniture-management)
+• Query optimization • Indexing • Schema design
+
+### 🛠️ Dev Tools & Workflow
+
+Git • GitHub • Docker • Postman • Thunder Client • VS Code • Linux Basics
+
+### 🔥 Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 ---
 
-### 🚀 **Development Philosophy**  
-**Development is not just about the size or complexity of the projects you’ve built; it’s about the small things you learn every day.**  
-Great developers are not measured by the magnitude of their projects but by their ability to learn, adapt, and refine their craft. Every line of code is an opportunity to improve, and every challenge is a lesson in growth. The true power of development lies in **incremental progress** and the dedication to mastering the craft one small piece at a time.
+## 📊 GitHub Analytics
+
+> Real work, real commits. No fake graphs.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anticoder03\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anticoder03\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anticoder03\&theme=tokyonight)
 
 ---
 
-### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-Ashish%20Prajapati-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-prajapati-68bb82242/)  
-[![GitHub](https://img.shields.io/badge/-Anticoder03-000000?style=flat&logo=github&logoColor=white)](https://github.com/Anticoder03)  
-[![Dev.to](https://img.shields.io/badge/-Anticoder03-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/anticoder03)
+## 🔥 Featured Projects
+
+### 📌 **A Square CRM** *(PHP, MySQL, Tailwind CSS, Chart.js)*
+
+A full‑scale **Customer Relationship Management System** handling customers, leads, tasks, reminders, and sales tracking.
+
+📚 [https://github.com/Anticoder03/CRM](https://github.com/Anticoder03/CRM)
+
+---
+
+### 🤖 **AI Chatbot** *(MERN Stack)*
+
+AI‑powered chatbot using MongoDB, Express, React, and Node.js with dynamic responses.
+
+📚 [https://github.com/Anticoder03/chati-app](https://github.com/Anticoder03/chati-app)
+
+---
+
+### 🏢 **Struggle School Website** *(PHP, MySQL, Tailwind CSS)*
+
+Educational platform showcasing courses, faculty, and events with admin management.
+
+📚 [https://github.com/Anticoder03/struggle_school/](https://github.com/Anticoder03/struggle_school/)
+
+---
+
+### 🏢 **Monster Industries** *(Business Website)*
+
+Corporate‑style website with clean UI, product listings, and contact workflows.
+
+📚 [https://github.com/Anticoder03/moster_industries/](https://github.com/Anticoder03/moster_industries/)
+
+---
+
+### 🏡 **Furniture Management System** *(PHP, MySQL, Tailwind CSS, jQuery)*
+
+E‑commerce system with admin panel, product management, and order handling.
+
+📚 [https://github.com/Anticoder03/furniture-management](https://github.com/Anticoder03/furniture-management)
+
+---
+
+## 🚀 Development Philosophy
+
+Development isn’t about flexing big projects—it’s about **consistency**.
+
+* Write less code, but better code
+* Learn something small every day
+* Respect fundamentals before chasing trends
+* Systems should be understandable six months later
+
+Progress compounds. Mastery is boring—and that’s the point.
+
+---
+
+## 🌐 Connect With Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/ashish-prajapati-68bb82242/](https://www.linkedin.com/in/ashish-prajapati-68bb82242/)
+* **GitHub:** [https://github.com/Anticoder03](https://github.com/Anticoder03)
+* **Dev.to:** [https://dev.to/anticoder03](https://dev.to/anticoder03)
 
 📧 **Email:** [ap5381545@gmail.com](mailto:ap5381545@gmail.com)
 
 ---
 
-### 📌 Latest Dev Card  
-<a href="https://app.daily.dev/ashishprajapati15"><img src="https://api.daily.dev/devcards/v2/wmchbth8Oobg42WJwyaXw.png?r=n2a&type=wide" width="652" alt="Ashish Prajapati's Dev Card"/></a>
+## 📌 Latest Dev Card
+
+<a href="https://app.daily.dev/ashishprajapati15">
+  <img src="https://api.daily.dev/devcards/v2/wmchbth8Oobg42WJwyaXw.png?r=n2a&type=wide" width="652" alt="Ashish Prajapati's Dev Card" />
+</a>
