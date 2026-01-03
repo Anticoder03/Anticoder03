@@ -11,7 +11,6 @@ I'm a **Full Stack Developer** who likes building things the old-school right wa
 </p>
 
 ---
-
 ### 🚀 Philosophy Behind the Name
 
 **Anticoder03** stands for a developer who respects proven practices while still pushing boundaries—optimize when it matters, refactor when it hurts, and never ship junk just because it works.
