@@ -84,9 +84,10 @@ Git • GitHub • Docker • Postman • Thunder Client • VS Code • Linux B
 
 > Real work, real commits. No fake graphs.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anticoder03&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anticoder03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anticoder03&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anticoder03&layout=compact&theme=tokyonight&langs_count=8)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anticoder03&theme=tokyonight)
 
