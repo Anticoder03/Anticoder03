@@ -151,7 +151,7 @@ Progress compounds. Mastery is boring—and that’s the point.
 
 ## 🌐 Connect With Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/ashish-prajapati-68bb82242/](https://www.linkedin.com/in/ashish-prajapati-68bb82242/)
+* **LinkedIn:** [https://www.linkedin.com/in/ashish-prajapati-dev/](https://www.linkedin.com/in/ashish-prajapati-dev/)
 * **GitHub:** [https://github.com/Anticoder03](https://github.com/Anticoder03)
 * **Dev.to:** [https://dev.to/anticoder03](https://dev.to/anticoder03)
 
