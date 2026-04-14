@@ -78,19 +78,6 @@ Git • GitHub • Docker • Postman • Thunder Client • VS Code • Linux B
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
----
-
-## 📊 GitHub Analytics
-
-> Real work, real commits. No fake graphs.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anticoder03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anticoder03&layout=compact&theme=tokyonight&langs_count=8)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anticoder03&theme=tokyonight)
-
 
 ---
 
