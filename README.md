@@ -130,6 +130,10 @@ E‑commerce system with admin panel, product management, and order handling.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anticoder03&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anticoder03&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
 ## 🚀 Development Philosophy
 
 Development isn’t about flexing big projects—it’s about **consistency**.
