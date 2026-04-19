@@ -144,8 +144,6 @@ Progress compounds. Mastery is boring—and that’s the point.
 
 📧 **Email:** [ap5381545@gmail.com](mailto:ap5381545@gmail.com)
 
----
-
 ## 📌 Latest Dev Card
 
 <a href="https://app.daily.dev/ashishprajapati15">
