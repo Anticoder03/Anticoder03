@@ -2,6 +2,7 @@
 
 ## Hi there! 👋
 
+
 ### 💻 About Me
 
 I'm a **Full Stack Developer** who likes building things the old-school right way—solid fundamentals first, shiny stuff later. I work across **front-end, back-end, and APIs**, shipping practical, scalable apps that actually run in production. Also a  full-time otaku 🎌, and someone who enjoys breaking patterns just enough to find better ones.
