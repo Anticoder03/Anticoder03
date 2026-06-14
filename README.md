@@ -131,7 +131,7 @@ E‑commerce system with admin panel, product management, and order handling.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anticoder03&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Anticoder03.png" alt="TryHackMe">
 ## 🚀 Development Philosophy
 
 Development isn’t about flexing big projects—it’s about **consistency**.
