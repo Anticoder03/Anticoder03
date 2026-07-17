@@ -14,8 +14,6 @@ I'm a **Full Stack Developer** who likes building things the old-school right wa
 
 ---
 
-
-
 ## 🚀 Tech Stack
 
 ### 🔥 Frontend
