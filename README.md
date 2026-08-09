@@ -2,8 +2,6 @@
 
 ## Hi there! 👋
 
-
-
 ### 💻 About Me
 
 
