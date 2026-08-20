@@ -9,7 +9,6 @@ I'm a **Full Stack Developer** who likes building things the old-school right wa
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+API+Developer;FastAPI+%7C+Django+REST;PostgreSQL+Focused;Building+Clean+and+Scalable+Systems" />
 </p>
-
 ---
 
 ## 🚀 Tech Stack
